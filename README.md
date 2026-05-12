@@ -1,13 +1,13 @@
 # crypto-tools
 
-加密货币工具集合 - 量化交易辅助工具
+Crypto Tools Collection - Quantitative Trading Auxiliary Tools
 
-## 🌐 访问链接
+## 🌐 Links
 
-👉 **实时工具：** https://topranker.xyz
+👉 **Live Tool:** https://topranker.xyz
 
-👉 **返佣注册：** https://www.bsmkweb.cc/register?ref=KXXYZF1
+👉 **Rebate Register:** https://www.bsmkweb.cc/register?ref=KXXYZF1
 
 ---
 
-*免责声明：本项目仅供学习研究，不构成投资建议。*
+*Disclaimer: For learning and research only, not investment advice.*
